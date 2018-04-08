@@ -15,7 +15,9 @@ pip install requests
 4. Top Charts
 5. New & Hot Charts
 
+### Playing a Song from Top Charts
 ![](https://ianannasetech.files.wordpress.com/2018/04/screen-shot-2018-04-08-at-7-14-33-pm.png)
+### Searching for a Mix
 ![](https://ianannasetech.files.wordpress.com/2018/04/screen-shot-2018-04-08-at-7-21-56-pm.png)
 
 
